@@ -1,0 +1,283 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Mr Arthur Knight of Grays-Inne, gentleman; who was executed in the Covent-Garden the second day of March, 1652.</title>
+            <author>Knight, Arthur, d. 1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87811</idno>
+            <idno type="STC">Wing K685</idno>
+            <idno type="STC">Thomason E689_7</idno>
+            <idno type="STC">ESTC R206927</idno>
+            <idno type="EEBO-CITATION">99866015</idno>
+            <idno type="PROQUEST">99866015</idno>
+            <idno type="VID">166448</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87811)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166448)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 106:E689[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Mr Arthur Knight of Grays-Inne, gentleman; who was executed in the Covent-Garden the second day of March, 1652.</title>
+                  <author>Knight, Arthur, d. 1653.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho: Heath at his shop in Russell-Street, near the Piazza's of Covent-Garden.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "March. 3.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Last words --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166448:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 41 -->
+            <p>THE SPEECH OF M<hi rend="sup">r</hi> Arthur Knight OF <hi>Grays-Inne,</hi>
+Gentleman; WHO Was Executed in the <hi>Covent-Garden</hi> the Second day of
+<hi>March,</hi> 1652.</p>
+            <figure/>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho: Heath</hi> at his ſhop
+in <hi>Ruſſell</hi>-Street, near the <hi>Piazza</hi>'s of
+<hi>Covent-Garden.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:166448:2"/>
+            <!-- PDF PAGE 42 -->
+            <pb n="3" facs="tcp:166448:2"/>
+            <!-- PDF PAGE 42 -->
+            <head>The Speech of Mr <hi>Arthur Knight</hi> of
+<hi>Grays-Inn,</hi> Gentleman; who was Executed in <hi>Covent-Garden,
+March</hi> 2. 1653.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am come hither to Act, or ra<g ref="char:EOLhyphen"/>ther ſuffer my part, no
+ſtrange part, though a ſad one, I heartily wiſh I could performe it
+perfect<g ref="char:EOLhyphen"/>ly, and to the life, as becometh my innocence; that the
+ſhame<g ref="char:EOLhyphen"/>fullneſſe of the Stage might not cauſe me to make an unhandſome
+Exit.</p>
+            <p>I ſtand here before the All-ſeeing God, I ſpeak before
+Angells, unto men, I ſhall not therefore in<g ref="char:EOLhyphen"/>creaſe my ſinnes by
+diſſembling them; upon the Files of heaven hang the records of every truth;
+and I will not as a man, I dare not as a Chriſtian ſpend my laſt breath
+in falſities; let the world forme what Judgment of me it pleaſeth.</p>
+            <pb n="4" facs="tcp:166448:3"/>
+            <!-- PDF PAGE 43 -->
+            <p>I am now to ſuffer upon a ſcore of murder, a foul and heavy
+ſcore, were I guilty thereof: but it is my comfort, that though I die as
+criminous, both my ſelfe and very many others are fully con<g ref="char:EOLhyphen"/>vinced of my
+innocence: yea Miſtris <hi>Furnefall</hi> herſelfe (Relict of the Gentleman
+for whoſe death I die) hath confeſſed to more then a few, that ſhe
+eſteemed me guiltleſſe, and that her con<g ref="char:EOLhyphen"/>ſcience would not ſuffer her
+to proſecute againſt me, and that for her own part ſhe did not, and was
+ſorry from her very heart that others had been ſo violent, and that ſhe
+would redeem me if ſhe could by any means poſſible. But my fall is
+unavoyda<g ref="char:EOLhyphen"/>ble, the crime is murder, for which I am caſt and ſentenced, and
+now brought hither to forfeit my life, I thank God although I ſtand not
+Juſtified be<g ref="char:EOLhyphen"/>fore my earthly Judges, I doe fall juſtified before my
+heavenly Judg.</p>
+            <p>Gentlemen, I am now going to my Triall, the Triall I have
+paſſed is none; death is but the Bea<g ref="char:EOLhyphen"/>dle that brings me to the celeſtiall
+Barr, To that Tribunall I haſten; that though I be condemned as a guilty
+perſon in <hi>foro Soli;</hi> I may be acquitted in <hi>foro Poli.</hi>
+            </p>
+            <p>I carry with me many witneſſes and good, a good conſcience
+is <hi>Mille testes,</hi> and whileſt a thou<g ref="char:EOLhyphen"/>ſand witneſſes ſtand for
+me, I am ſure I cannot fi<g ref="char:EOLhyphen"/>nally miſcarry. That Judge above proceedeth by an
+unerrable and moſt conſpicuous light; he knoweth things as they are, not as
+they appear, and therefore cannot be miſinformed, or miſtaken in his
+ſentence.</p>
+            <pb n="5" facs="tcp:166448:3"/>
+            <!-- PDF PAGE 43 -->
+            <p>Truly, Sirs, though I ſuffer as a murderer, (be<g ref="char:EOLhyphen"/>ſides the
+acquittance of my own conſcience) no one here preſent of greeneſt years
+and reaſon, wil think me guilty, if at leaſt he knew, that at the time when
+the Gentleman was wounded, my ſword was in a readineſs; wherewith if my
+intents had been murdrous, I might eaſily have clapt him through without
+venturing my own life or liber<g ref="char:EOLhyphen"/>ty. I had then a ſword by my ſide, but made
+no uſe of it; nay, I did not ſo much as draw it, nor attempt to draw it:
+had I harboured any bloody revenge, or had I intended him ill, or death, I
+could, yea I ſhould have drawn it.</p>
+            <p>What ever provocation was given me, (and in<g ref="char:EOLhyphen"/>deed I had enough) I
+had yet no premeditation of evil unto this perſon; nor did I lodge in my
+breſt any malice againſt him; I wiſht him no harm, for I ſcarce ever
+ſaw the Gentleman before; what af<g ref="char:EOLhyphen"/>fection he did bear towards me, I know not,
+God knows: but I conceive his crazineſs within, the neglect of timely
+phyſick, or the ignorance of the aſſiſtants, hath precipitated his and
+my death. I hope, good people, none of you think me ſo bad a Chriſtian, as
+now in the laſt pe<g ref="char:EOLhyphen"/>riod and article of my life, to diſſemble my guilt if
+I were inwardly convinced. I beſeceh you al<g ref="char:EOLhyphen"/>low me who am upon the marches of
+death, ſo far your credit and good opinion, that if my in<g ref="char:EOLhyphen"/>nocence cannot
+reſcue me from this puniſhment, it may yet preſerve my memory from common
+prejudice and ſcandal.</p>
+            <p>True indeed I am a man obnoxious to many 
+<pb n="6" facs="tcp:166448:4"/>
+               <!-- PDF PAGE 44 -->faults and failings, and as a
+ſinner I need a great al<g ref="char:EOLhyphen"/>lowance of pardon for youthful frailties &amp;
+offen<g ref="char:EOLhyphen"/>ces. But I am taught to believe that in this life there is no perfection
+or exemption from ſin; and I hope that in the mercifull ballance of the
+Al<g ref="char:EOLhyphen"/>mighty, I am found paſſable and currant for hea<g ref="char:EOLhyphen"/>ven. I would have none
+believe I excuſe my ſelf from crime, I onely profeſſe my ſelfe
+innocent from the ſin of murder, that imputation for w<hi rend="sup">ch</hi> I now ſuffer.
+The greateſt matter that troubles my peace, is this, that the misfortune of
+untimely death ſhould defeat me and deceive my parents of the glad
+expectation they conceived of me: I had moſt dear and tender parents, and
+they of me a dutiful ſon, and they hoped to be once happy in my welfare
+having beſtowed upon me qualities, travel and learning, expecting at the hand
+of Pro<g ref="char:EOLhyphen"/>vidence the harveſt of their pains and expences. But God the ſupream
+and ſole arbiter of life and death, who hath the conduct of all actions &amp;
+ends, hath ſuffered them to be diſappointed of their hopes, &amp; me of my
+deſires of compenſating their large charges and care. Theſe things thou
+per<g ref="char:EOLhyphen"/>mitteſt, O Lord, that all of us might learn to ſub<g ref="char:EOLhyphen"/>mit and fear. I
+ſubmit therefore (O thou Father of infinite mercies) to thy good pleaſure
+to this my premature death, this ignominious death, en<g ref="char:EOLhyphen"/>able me (moſt gracious
+Father) to deſpiſe the ſhame, endure the croſſe, and to wade through
+this ſea of blood unto the ſhore of everlaſting happineſs. Lo, O Lord,
+I come, I come unto thee, becauſe thou bidſt me come, becauſe thou
+draw<g ref="char:EOLhyphen"/>eſt me.</p>
+            <pb n="7" facs="tcp:166448:4"/>
+            <!-- PDF PAGE 44 -->
+            <p>Alas; I had almoſt forgotten ſomewhat eſſenti<g ref="char:EOLhyphen"/>all to my
+own duty, and my brothers ſecurity, to wit the clearing of my brother
+<hi>Thomas Knight</hi> from all guilt in this unfortunate Action, I hope my
+life doth ſatisfie the law, and expiate the offence, how<g ref="char:EOLhyphen"/>ever I am bound in
+conſcience to declare that not any part of this matter can be juſtly
+charged upon him, for I proteſt by the faith of a dieing man, he is as free
+from it, as I am reputed guilty: he had no hand at all in this fact.</p>
+            <p>Concerning my faith, I need not ſpeak many words it having
+been never doubted, only thus much I ſhall profeſſe, that I die in the
+faith where<g ref="char:EOLhyphen"/>in I alwaies lived, and into which I was baptiſed, to wit the
+faith of the Church of <hi>England,</hi> that e<g ref="char:EOLhyphen"/>ſtabliſht faith I die in,
+whereof I have lately made profeſſion to ſome perſons of honor, who
+were in<g ref="char:EOLhyphen"/>timate to my laſt preparations.</p>
+            <p>And now oh Jeſus witneſs for me, that what meaſure
+ſoever I have received, I die peaceably and in charity with all men, I
+forgive all my ene<g ref="char:EOLhyphen"/>mies, and am more favourable to my Judges, then they have
+been to me, Lord, let not the leaſt drop of my blood ſtand upon their
+account: blood oh Lord lies heavy, yet thou knoweſt that therein I have a
+conſcience full of ſerenity and Calmneſs.</p>
+            <p>Lord receive my ſoul, my ſoul I reſign unto thee, I
+truſt it with thee, thou art a faithfull Creator and keeper.</p>
+            <p>Lord Jeſus receive my ſoul.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="part">
+            <pb n="8" facs="tcp:166448:5"/>
+            <!-- PDF PAGE 45 -->
+            <head>AN ELEGY On the Execution of Mr. <hi>ARTH<g ref="char:V">Ʋ</g>R
+KNIGHT.</hi>
+            </head>
+            <lg>
+               <l>AS <hi>Socrates,</hi> becauſe he durst defie</l>
+               <l>Plurality of Gods, was forc't to die:</l>
+               <l>Yet when his friends bewaild his unjuſt fate,</l>
+               <l>Incurr'd for noble Truth, and Popular hate;</l>
+               <l>He gladly ſaid, Who would not be content</l>
+               <l>Rather then guilty, to fall innocent?</l>
+               <l>So injur'd <hi>Arthur,</hi> ſince thy blameleſs mind</l>
+               <l>Hath purg'd thine hands, and inward parts refin'd,</l>
+               <l>Since thy unſhackel'd conſcience diſdains</l>
+               <l>Guilt woven Fetters, or heart-binding Chains:</l>
+               <l>(For vile intents may stamp good actions, ill,</l>
+               <l>But no man can be had againſt his will;)</l>
+               <l>We muſt thy death a perſecution call,</l>
+               <l>And more a Sacrifice, than Funeral:</l>
+               <l>The Altar of thy breaſt being free from dreſs,</l>
+               <l>Makes the Line, Fillets; and the Tree a Croſs;</l>
+               <l>Whereon thy former crimes did offerings lie,</l>
+               <l>That ſo thy ſoul unclog'd might climb the Skit.</l>
+               <l>None while he lives his own Cauſe juſtly Tries;</l>
+               <l>Each proves his own beſt Judge yet, when he dies.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
